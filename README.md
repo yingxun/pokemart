@@ -1,2 +1,2 @@
-# pokemart
-Pokemart online store implementation using react redux
+# Pokémon PC Box
+Pokémon PC box implementation using react redux
